@@ -127,7 +127,7 @@ const Demo = () => {
         ) : error ? (
 
           <p className='font-inter font-bold text-black text-center'>
-            Well that wasn't supposed to happen...
+            Kindly provide valid article links only...
             <br/>
             <span className='font-satoshi font-normal text-gray-700'>{error?.data?.error}</span>
           </p>
