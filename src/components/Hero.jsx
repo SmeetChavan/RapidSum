@@ -25,7 +25,6 @@ const Hero = () => {
           Experience the Revolution of RapidSum: Effortlessly Condense Complex Articles into Bite-sized Insights
         </h2>
 
-
       </header>
   )
 }
